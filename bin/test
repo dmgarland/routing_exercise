@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --rm -it -v $(pwd):/usr/src/app routing-practice ruby -Iapp:test test/routing_test.rb
