@@ -8,7 +8,7 @@ Let's play with routing.
 git clone <this repo>
 cd routing-practice
 bundle
-ruby app/routing_example.rb
+rackup
 ```
 
 ## Quickstart (Docker)
