@@ -34,7 +34,7 @@ describe 'Our amazing web app' do
 
   describe 'getting an image' do
     before do
-      get '/images/NADA_CAT.webp'
+      get '/images/NYAN-CAT.webp'
     end
 
     it 'shows a page' do
